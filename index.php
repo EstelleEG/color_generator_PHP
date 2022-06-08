@@ -9,10 +9,12 @@
   <title>Color Generator</title>
 
   <script src="https://kit.fontawesome.com/26c1d388d0.js" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/style.css"/>
 </head>
 
 <body>
+<div id="container">
+
  <div>
   <h1>Color generator</h1>
 
@@ -37,11 +39,11 @@
 
   </div>
 
-<div id='rectangular'>
-</div>
+  <div id='rectangular'>
+  </div>
 
 <button>Choose this color</button>
-
+</div>
 
 <script>
     $(document).ready(function (){ //load when doc ready

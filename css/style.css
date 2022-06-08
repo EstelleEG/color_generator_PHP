@@ -3,7 +3,13 @@ body{
     padding: 2rem;
     box-sizing: border-box;
     font-size: 1rem;
+    background-color: rgb(40, 245, 170);
 }
+
+#container{
+
+}
+
 
 #cursors{
     display:flex;
@@ -17,10 +23,20 @@ body{
     height:100px;
 }
 
-div{
+#cursors{
     padding-right: 5rem;
 }
 
+#inputRed{
+    width:10%;
+}
 
+#inputGreen{
+    width:10%;
+}
+
+#inputBlue{
+    width:10%;
+}
 
 
