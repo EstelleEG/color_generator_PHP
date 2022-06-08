@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 2rem;
+    box-sizing: border-box;
+    font-size: 1rem;
+}
+
+#cursors{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#rectangular{
+    border: 1px solid black;
+    width:200px;
+    height:100px;
+}
+
+div{
+    padding-right: 5rem;
+}
+
+
+
+
