@@ -3,13 +3,8 @@ body{
     padding: 2rem;
     box-sizing: border-box;
     font-size: 1rem;
-    background-color: rgb(40, 245, 170);
+    background-color: rgb(196, 242, 225);
 }
-
-#container{
-
-}
-
 
 #cursors{
     display:flex;
@@ -17,7 +12,7 @@ body{
     flex-direction: row;
 }
 
-#rectangular{
+#pastille{
     border: 1px solid black;
     width:200px;
     height:100px;
